@@ -57,3 +57,21 @@ body {
     font-size: 18px;
     margin: 20px;
 }
+
+.index-footer {
+    text-align: center;
+    color: gray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    margin: 20px;
+}
+
+/* about page styles */
+.about-home-button {
+    background-color: rgb(240, 240, 240);
+    width: 120px;
+    height: 25px;
+    color: black;
+    border: 1px solid rgb(210, 210, 210);
+    border-radius: 0px;
+}
