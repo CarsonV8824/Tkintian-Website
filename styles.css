@@ -35,6 +35,13 @@ body {
     border-radius: 0px;
 }
 
+.border-body{
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 1px;
+    border-color: rgb(210, 210, 210);
+}
+
 .title {
    text-align: center;
     color: black;
